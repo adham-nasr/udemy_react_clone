@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+//import './App.css';
+import Sectioncard from './Sectioncard';
+
+function App() {
+  return (
+    <div className="App">
+      <div className="div1">
+        <Sectioncard />
+      </div>
+=======
 import './App.css';
 import Card from './Card';
 
@@ -37,6 +48,7 @@ function App() {
   return (
     <div className="App">
       <Card {...data[0]}/>
+>>>>>>> ec6365ca14b159f3b6da62970c1a353525f9add3
     </div>
   );
 }
