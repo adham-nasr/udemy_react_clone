@@ -3,7 +3,7 @@ import Card from './Card';
 const Sectioncard = (props) => {
     const data = [{
         id:'aseafe1',
-        image:'https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg',
+        image:'https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg',
         title: 'learn python from zero to hero',
         instructor: 'jose portila',
         stars:4,
@@ -13,7 +13,7 @@ const Sectioncard = (props) => {
     },
     {
         id:'aseafe2',
-        image:'https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg',
+        image:'https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg',
         title: 'learn python from zero to hero',
         instructor: 'jose portila',
         stars:4,
@@ -23,7 +23,7 @@ const Sectioncard = (props) => {
     },
     {
         id:'aseafe3',
-        image:'https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg',
+        image:'https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg',
         title: 'learn python from zero to hero',
         instructor: 'jose portila',
         stars:4,
